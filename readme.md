@@ -18,7 +18,7 @@ ext install fabiospampinato.vscode-projects-plus-todo-plus
 
 ## Usage
 
-It adds 2 commands to the command palette:
+It adds 70commands to the command palette:
 
 ```js
 Projects: Todo // Open a file containing all your todo files aggregated into one
